@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "723390560267",
+    "firebase_url": "https://sleep-time-log-default-rtdb.firebaseio.com",
+    "project_id": "sleep-time-log",
+    "storage_bucket": "sleep-time-log.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723390560267:android:afa6ffde1a5bfccb35af0e",
+        "android_client_info": {
+          "package_name": "com.example.group_number_h"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV5ZuILuQC0XKohaEDjzMX_f_8eit_wnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723390560267:android:bb2dd38cc7c5e05835af0e",
+        "android_client_info": {
+          "package_name": "com.example.groupnumh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV5ZuILuQC0XKohaEDjzMX_f_8eit_wnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
