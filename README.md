@@ -1,16 +1,12 @@
-# group_number_h
+# SleepTracker app
 
-A new Flutter project.
+A Flutter-based sleep-tracking application
 
-## Getting Started
+Overview
+SleepTracker is a Flutter app developed as part of my Software Engineering course. The app helps users improve their sleep quality by providing features like sleep tracking, relaxation music, and guided sleep videos.
 
-This project is a starting point for a Flutter application.
+My Contributions
+I was responsible for developing the Music Page and Video Page, implementing:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Music Page: Integrated a library of relaxation sounds, and  user controls.
+Video Page: Designed a custom video player, supporting  full-screen mode.
